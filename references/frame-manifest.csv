@@ -87,3 +87,8 @@ disputes,are-you-sure,5690,Are you sure this option best fits your situation
 disputes,please-call-us,5720,Please call us to complete your claim screen
 pin,manage-pin,5820,"Manage PIN screen (cannot reset in app, PIN mailed)"
 pin,request-pin-card-number,5860,Request PIN: enter 16-digit card number
+linked-accounts,more-menu,45,More menu: Self-service and Travel & dining grids incl. Profile & settings
+linked-accounts,profile-account-settings,55,Profile & Settings: Account settings expanded incl. Manage linked accounts row
+linked-accounts,manage-linked-accounts,70,Manage linked accounts: Available relationships with Link relationship links
+linked-accounts,link-confirm-dialog,86,Confirm dialog: Are you sure you would link this relationship (Cancel / Link relationship)
+linked-accounts,link-success,90,Your account has been successfully linked confirmation

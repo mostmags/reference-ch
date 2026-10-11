@@ -191,3 +191,15 @@ Website frames are in `website/` (2990x1960, chase.com desktop).
 | `checks-deposit-slips.png` | Order checks & deposit slips with Deluxe (3 steps) |
 | `leaving-chase-popup.png` | "You're leaving Chase" modal (Cancel/Continue) |
 | `deluxe-orderpage.png` | Deluxe check-order page (check preview + customization) |
+
+## `linked-accounts/`
+
+| File | Video | Description |
+|---|---|---|
+| `more-menu.png` | 5RZjYNDom5k @0:45 | More menu: Self-service grid (Lock/unlock card, Replace cards, Digital Wallets, Statements & tax forms, Manage alerts, Profile & settings), Travel & dining |
+| `profile-account-settings.png` | 5RZjYNDom5k @0:55 | Profile & Settings: Account settings expanded — Paperless / Show or hide accounts / Choose favorites / Set primary account / Manage linked accounts |
+| `manage-linked-accounts.png` | 5RZjYNDom5k @1:10 | Manage linked accounts: Available relationships list, each with "Link relationship ›" |
+| `link-confirm-dialog.png` | 5RZjYNDom5k @1:26 | Confirm dialog: "Are you sure you would link this relationship?" (Cancel / Link relationship) |
+| `link-success.png` | 5RZjYNDom5k @1:30 | "Your account has been successfully linked" confirmation (Return to manage linked accounts / Go paperless) |
+
+Source: https://www.youtube.com/watch?v=5RZjYNDom5k ("How To Add Chase Business Card To Chase App (Full Guide)"). Captured 2026-10-11. Frames are 160x360 crops from a 360p video — good for labels/layout, not pixel detail.
