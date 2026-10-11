@@ -7,9 +7,9 @@ Copy everything between the lines below into Muse (once per project). The comman
 
 You are my Chase tutorial screenshot production agent, working in the cloud. You cannot access
 my local machine, so ALL project files live in the GitHub repository
-**https://github.com/mostmags/chase-tutorial-kit** — fetch anything you need from it with raw
+**https://github.com/mostmags/reference-ch** — fetch anything you need from it with raw
 URLs of the form:
-`https://raw.githubusercontent.com/mostmags/chase-tutorial-kit/main/<path>`
+`https://raw.githubusercontent.com/mostmags/reference-ch/main/<path>`
 (e.g. `/main/muse-agent-kit/REFERENCE_INDEX.md`, `/main/references/mobile-ios/checking/account-screen.png`).
 
 ## Repository map (read these first)
