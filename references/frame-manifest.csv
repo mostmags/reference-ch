@@ -1,0 +1,89 @@
+folder,file,video_second,description
+profile-settings,profile-and-settings,745,Profile & Settings page (Security & privacy / Personal details / Sign-in preferences / Account settings / Alerts & messages / Help & support / Document manager)
+security,security-privacy-center,775,"Security and privacy center: Report fraud, Lock/replace card, Request new PIN, Enhance your security"
+security,update-your-settings-2fa,870,"Update Your Settings: 2-step verification toggle On, one-time codes by email Off"
+home-dashboard,home-account-screen,915,Home screen with accounts list after sign-in
+checking,account-screen,940,"Account screen: available balance, Pay/Transfer/More buttons"
+checking,manage-account,975,Manage account screen: lock/replace/dispute buttons + card setup
+direct-deposit,direct-deposit-screen,1000,Have your paycheck sent here: routing/account numbers with copy buttons
+direct-deposit,prefilled-form,1060,Prefilled direct deposit form with void check
+card-management,card-setup-maintenance,1175,"Card setup and maintenance section (track card, digital wallets, activate, PIN)"
+card-management,activate-card-expiry,1210,Activate Card: Your new debit card - confirm expiration date (keyboard open)
+card-management,activate-success,1235,You are all set - card activated confirmation
+profile-settings,signin-preferences,1275,"Sign-in preferences expanded (username and password, Face ID and passcode, delete profile)"
+profile-settings,username-password,1305,Change password screen (current/new/confirm)
+card-management,manage-account-top,1360,Manage account top: three buttons row
+card-management,misplace-your-card,1395,Misplace your card screen (lock card)
+card-management,card-locked,1430,You have locked your card confirmation
+card-management,replace-choose-card,1475,Replace card: choose which card
+card-management,replace-reasons,1530,Replace card: lost/damaged/never received options
+card-management,replace-shipping,1590,Replace card: shipping info and delivery method
+card-management,replace-summary,1620,Replace a card review: Does everything look OK? (Card info / Reason / Shipping info)
+account-numbers,show-details,1640,"Show details: account number, routing number, rate"
+account-numbers,routing-learn-more-popup,1700,Learn more popup: wire routing number 021000021
+paperless,account-settings-paperless,1780,Profile > Account settings > Paperless entry
+paperless,paperless-settings,1830,"Paperless settings: email, all-accounts checkboxes, per-account checkboxes"
+paperless,paperless-confirmation,1900,You have updated your paperless settings confirmation
+transactions,transactions-screen,1960,See all transactions list
+statements,statements-documents,1995,Statements and documents: 5 categories
+statements,statements-page,2040,"Statements page: 7 years, organized by year"
+deposit-checks,quick-actions-toolbar,2110,Chase QuickDeposit first-time agreement (I agree + Deposit a check)
+deposit-checks,start-deposit-agreement,2135,Start deposit checks: agreement checkbox + Deposit a check button
+deposit-checks,quick-deposit-screen,2185,"Quick deposit screen: tabs, deposit to, amount, limit"
+deposit-checks,front-back-capture,2230,Front and back capture boxes
+deposit-checks,review-deposit,2270,Review: Does everything look OK? front/back photos
+deposit-checks,deposit-confirmation,2315,We received your deposit confirmation
+balances,available-vs-present,2370,Available vs present balance explanation
+transactions,pending-deposit,2430,Transactions with pending mobile deposit (dash date)
+website,website-account-page,2600,"chase.com desktop account page: balance, Statements/Paperless/Transfer money/More buttons, transactions table, Chase Offers"
+website,website-more-dropdown,2635,"chase.com More dropdown: Account details, Statements, Account & routing numbers, Transfer activity, Order checks & deposit slips, Account services (Track your card, Lock and unlock your card, Replace a card, Stop payments, Set up direct deposit, Travel notification, Manage digital wallets, Stored cards, Activate your card), Update settings & preferences"
+website,checks-deposit-slips,2670,Order checks and deposit slips with Deluxe: 3 steps + account dropdown + Go to Deluxe
+website,leaving-chase-popup,2700,You're leaving Chase modal (Cancel / Continue)
+website,deluxe-orderpage,2740,"Deluxe orderpoint: Chase Exclusive check preview, customization, Confirm & Next"
+pay-transfer,pay-and-transfer-screen,2900,Pay and transfer screen: 5 quick actions
+pay-transfer,manage-external-accounts,2930,Manage external accounts screen
+external-accounts,choose-account,2965,Choose an account / link an external account
+external-accounts,find-institution,3000,Find your external financial institution list
+external-accounts,how-to-add,3030,How do you want to add the account: sign in vs manual
+external-accounts,capital-one-consent,3120,Capital One consent page
+external-accounts,account-selection,3160,Capital One account list with checkboxes
+external-accounts,confirm-connect,3195,Confirm and connect screen
+external-accounts,verified-added,3230,You have verified and added this external account
+transfers,schedule-transfer,3340,"Schedule a transfer: amount, from, to"
+transfers,choose-account-popup,3390,Choose an account popup (internal/external sections)
+transfers,delivery-method-popup,3455,Choose a delivery method popup: Real-time vs Standard
+transfers,transfer-review,3520,Transfer review: Does everything look OK?
+transfers,transfer-confirmation,3560,Transfer scheduled confirmation
+wires,smart-way-to-move-money,3635,Wires intro: The smart way to move money
+wires,payment-purpose,3700,Choose a payment purpose (6 options)
+wires,scam-warning,3760,Stay safe scam warning with checkbox
+wires,recipient-bank-details,3830,Step 1 of 3: add recipient bank details (routing)
+wires,bank-name-confirmed,3925,Wire routing number registered with Bank of America box
+wires,recipient-details,3995,Step 2 of 3: recipient details form
+wires,wire-review,4030,Step 3 of 3: Does everything look OK?
+wires,recipient-all-set,4060,You are all set recipient added
+wires,schedule-wire-fee,4095,Schedule transfer: wire amount + $25 fee + total
+wires,verify-sender,4220,Verify sender final review
+wires-intl,international-tab,4265,Wires: Domestic US / International tabs + 3 info cards
+wires-intl,swift-code,4450,International: SWIFT code entry + bank confirmation
+wires-intl,currency-choice,4560,Recipient account currency: euros vs US dollars
+wires-intl,exchange-rate,4750,USD/equivalent amount fields with exchange rate
+wires-intl,fee-breakdown,4880,"Wire fee breakdown: exchange rate, amount, fee, total"
+zelle,manage-recipients,4945,"All recipients list (search, recipients with last-4)"
+zelle,welcome-zelle,4990,Welcome to Zelle agreement screen
+zelle,pick-zelle-id,5045,Pick your Zelle ID (email/phone)
+zelle,zelle-all-set,5090,Zelle You are all set confirmation
+zelle,zelle-qr-code,5120,Show the Zelle QR code screen
+zelle,stay-safe-zelle,5220,Stay safe with Zelle acknowledgment
+zelle,pay-and-payments-due,5250,Pay bills and send money with Zelle: Pay / Payments due tabs
+zelle,add-recipient,5290,Add a Zelle recipient form
+zelle,why-sending,5350,Stay safe: why are you sending (3 options)
+zelle,enter-amount,5390,Enter amount screen with recipient info and message field
+zelle,review-send,5450,Zelle review screen
+zelle,sending-confirmation,5485,We are sending your money now confirmation
+disputes,transaction-details,5560,Transaction details screen with Report a problem link
+disputes,whats-wrong-options,5640,What does not look right: 6 options
+disputes,are-you-sure,5690,Are you sure this option best fits your situation
+disputes,please-call-us,5720,Please call us to complete your claim screen
+pin,manage-pin,5820,"Manage PIN screen (cannot reset in app, PIN mailed)"
+pin,request-pin-card-number,5860,Request PIN: enter 16-digit card number
