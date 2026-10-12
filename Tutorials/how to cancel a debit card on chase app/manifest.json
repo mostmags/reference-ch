@@ -1,0 +1,62 @@
+{
+  "topic": "how to cancel a debit card on chase app",
+  "slug": "how to cancel a debit card on chase app",
+  "platform": "chase-mobile-ios",
+  "canvas": {
+    "mobile": "786x1704 (393x852 pt @2x, full-bleed iOS, square corners)",
+    "website": "2880x1800 (1440x900 pt @2x, chase.com header + footer)"
+  },
+  "font": "Open Sans (Regular/SemiBold/Bold)",
+  "status_bar": "12:01, 4-bar cellular, WiFi arcs, battery with tip",
+  "screens": [
+    {
+      "file": "s01.png",
+      "label": "Sign in screen",
+      "resolution": "786x1704",
+      "reference": null,
+      "note": "Reused; reconstructed from DESIGN_RULES.md (no repo reference for sign-in)."
+    },
+    {
+      "file": "s02.png",
+      "label": "Home dashboard",
+      "resolution": "786x1704",
+      "reference": "references/mobile-ios/home-dashboard/home-account-screen.png",
+      "note": ""
+    },
+    {
+      "file": "s03.png",
+      "label": "TOTAL CHECKING account screen",
+      "resolution": "786x1704",
+      "reference": "references/mobile-ios/checking/account-screen.png",
+      "note": ""
+    },
+    {
+      "file": "s04.png",
+      "label": "Manage account screen",
+      "resolution": "786x1704",
+      "reference": "references/mobile-ios/checking/manage-account.png",
+      "note": ""
+    },
+    {
+      "file": "s05.png",
+      "label": "Replace a card: choose a reason",
+      "resolution": "786x1704",
+      "reference": "references/mobile-ios/card-management/replace-reasons.png",
+      "note": ""
+    },
+    {
+      "file": "s06.png",
+      "label": "Shipping info",
+      "resolution": "786x1704",
+      "reference": "references/mobile-ios/card-management/replace-shipping.png",
+      "note": ""
+    },
+    {
+      "file": "s07.png",
+      "label": "Does everything look OK? review",
+      "resolution": "786x1704",
+      "reference": "references/mobile-ios/card-management/replace-summary.png",
+      "note": ""
+    }
+  ]
+}

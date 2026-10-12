@@ -1,0 +1,51 @@
+{
+  "topic": "how to check chase credit card application status",
+  "slug": "how to check chase credit card application status",
+  "platform": "chase-com-website",
+  "generated": "2026-10-12",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) - $2,436.19 available / present",
+    "debit_card": "DEBIT/ATM CARD (...2208), exp 08/29, Visa",
+    "credit_card": "Freedom Unlimited (...7710) - $418.77 current balance, $5,000.00 credit limit",
+    "external_bank": "360 Performance Savings (...8535)"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Go to chase.com and click \"Sign in\" at the top right.",
+      "screen": "s01.png",
+      "status": "done"
+    },
+    {
+      "step": 2,
+      "instruction": "Enter your username and password, then click \"Sign in\".",
+      "screen": "s02.png",
+      "status": "done"
+    },
+    {
+      "step": 3,
+      "instruction": "On your accounts page, click the menu icon in the top left.",
+      "screen": "s03.png",
+      "status": "done"
+    },
+    {
+      "step": 4,
+      "instruction": "Scroll down the menu and click \"Application status\".",
+      "screen": "s04.png",
+      "status": "done"
+    },
+    {
+      "step": 5,
+      "instruction": "The application status page shows your card, the date you applied, and the current status, here \"In review\".",
+      "screen": "s05.png",
+      "status": "done"
+    },
+    {
+      "step": 6,
+      "instruction": "Most decisions arrive within 7 to 10 business days. For an update sooner, call Chase at 1-888-338-2586.",
+      "screen": "s05.png",
+      "status": "done"
+    }
+  ]
+}

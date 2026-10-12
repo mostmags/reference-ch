@@ -1,0 +1,51 @@
+{
+  "topic": "how to check mobile deposit limit chase",
+  "slug": "how to check mobile deposit limit chase",
+  "platform": "chase-mobile-ios",
+  "generated": "2026-10-12",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) - $2,436.19 available / present",
+    "debit_card": "DEBIT/ATM CARD (...2208), exp 08/29, Visa",
+    "credit_card": "Freedom Unlimited (...7710) - $418.77 current balance, $5,000.00 credit limit",
+    "external_bank": "360 Performance Savings (...8535)"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Open your chase app and sign in.",
+      "screen": "s01.png",
+      "status": "done"
+    },
+    {
+      "step": 2,
+      "instruction": "On the home screen, tap \"Deposit checks\" in the quick actions row.",
+      "screen": "s02.png",
+      "status": "done"
+    },
+    {
+      "step": 3,
+      "instruction": "If the Chase QuickDeposit agreement appears, tick the box to agree, then tap \"Deposit a check\".",
+      "screen": "s03.png",
+      "status": "done"
+    },
+    {
+      "step": 4,
+      "instruction": "On the QuickDeposit screen, tap \"Deposit to\" and select your TOTAL CHECKING account.",
+      "screen": "s04.png",
+      "status": "done"
+    },
+    {
+      "step": 5,
+      "instruction": "Right below the deposit amount field, \"Your current mobile deposit limit is $7,500.00\" shows your limit.",
+      "screen": "s04.png",
+      "status": "done"
+    },
+    {
+      "step": 6,
+      "instruction": "Tap \"Learn more\" for details on deposit limits and when your money is available.",
+      "screen": "s04.png",
+      "status": "done"
+    }
+  ]
+}

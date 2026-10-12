@@ -1,0 +1,63 @@
+{
+  "topic": "how to cancel a debit card on chase app",
+  "slug": "how to cancel a debit card on chase app",
+  "platform": "chase-mobile-ios",
+  "generated": "2026-10-12",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) - $2,436.19 available / present",
+    "debit_card": "DEBIT/ATM CARD (...2208), exp 08/29, Visa",
+    "credit_card": "Freedom Unlimited (...7710) - $418.77 current balance, $5,000.00 credit limit",
+    "external_bank": "360 Performance Savings (...8535)"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Open your chase app and sign in.",
+      "screen": "s01.png",
+      "status": "done"
+    },
+    {
+      "step": 2,
+      "instruction": "Tap your TOTAL CHECKING account, the checking account your debit card is tied to.",
+      "screen": "s02.png",
+      "status": "done"
+    },
+    {
+      "step": 3,
+      "instruction": "Tap \"Manage account\" to open your account tools.",
+      "screen": "s03.png",
+      "status": "done"
+    },
+    {
+      "step": 4,
+      "instruction": "Tap \"Replace a lost or damaged card\". In the app, canceling a card is done through replacement: Chase immediately cancels your old card number and issues a new one.",
+      "screen": "s04.png",
+      "status": "done"
+    },
+    {
+      "step": 5,
+      "instruction": "Choose \"My card is lost\" as the reason, or the one that fits, then tap \"Next\".",
+      "screen": "s05.png",
+      "status": "done"
+    },
+    {
+      "step": 6,
+      "instruction": "Check your mailing address, keep \"Regular delivery\", and tap \"Next\".",
+      "screen": "s06.png",
+      "status": "done"
+    },
+    {
+      "step": 7,
+      "instruction": "Review the \"Does everything look OK?\" screen and tap \"Replace card\" to cancel your old card.",
+      "screen": "s07.png",
+      "status": "done"
+    },
+    {
+      "step": 8,
+      "instruction": "Your replacement card arrives in 5 to 7 business days. To cancel without a replacement, call the number on the back of your card.",
+      "screen": "s07.png",
+      "status": "done"
+    }
+  ]
+}

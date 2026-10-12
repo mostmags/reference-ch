@@ -1,0 +1,8 @@
+In this video I'm going to show you how to how to check mobile deposit limit chase
+
+Step 1. Open your chase app and sign in.
+Step 2. On the home screen, tap "Deposit checks" in the quick actions row.
+Step 3. If the Chase QuickDeposit agreement appears, tick the box to agree, then tap "Deposit a check".
+Step 4. On the QuickDeposit screen, tap "Deposit to" and select your TOTAL CHECKING account.
+Step 5. Right below the deposit amount field, "Your current mobile deposit limit is $7,500.00" shows your limit.
+Step 6. Tap "Learn more" for details on deposit limits and when your money is available.

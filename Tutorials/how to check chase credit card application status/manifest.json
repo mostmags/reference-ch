@@ -1,0 +1,48 @@
+{
+  "topic": "how to check chase credit card application status",
+  "slug": "how to check chase credit card application status",
+  "platform": "chase-com-website",
+  "canvas": {
+    "mobile": "786x1704 (393x852 pt @2x, full-bleed iOS, square corners)",
+    "website": "2880x1800 (1440x900 pt @2x, chase.com header + footer)"
+  },
+  "font": "Open Sans (Regular/SemiBold/Bold)",
+  "status_bar": "12:01, 4-bar cellular, WiFi arcs, battery with tip",
+  "screens": [
+    {
+      "file": "s01.png",
+      "label": "chase.com home, signed out (Sign in top right)",
+      "resolution": "2880x1800",
+      "reference": null,
+      "note": "Reconstructed from muse-agent-kit/DESIGN_RULES.md website section; no website frames are present in the repo."
+    },
+    {
+      "file": "s02.png",
+      "label": "chase.com sign-in page",
+      "resolution": "2880x1800",
+      "reference": null,
+      "note": "Reconstructed from DESIGN_RULES.md."
+    },
+    {
+      "file": "s03.png",
+      "label": "Signed-in accounts overview with menu icon top left",
+      "resolution": "2880x1800",
+      "reference": null,
+      "note": "Reconstructed from DESIGN_RULES.md."
+    },
+    {
+      "file": "s04.png",
+      "label": "Menu open with Application status item",
+      "resolution": "2880x1800",
+      "reference": null,
+      "note": "Reconstructed from DESIGN_RULES.md; menu contents per Upgraded Points/Listen Money Matters walkthroughs."
+    },
+    {
+      "file": "s05.png",
+      "label": "Application status page (Freedom Unlimited, In review)",
+      "resolution": "2880x1800",
+      "reference": null,
+      "note": "Reconstructed from DESIGN_RULES.md."
+    }
+  ]
+}

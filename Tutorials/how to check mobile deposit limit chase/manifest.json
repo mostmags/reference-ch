@@ -1,0 +1,41 @@
+{
+  "topic": "how to check mobile deposit limit chase",
+  "slug": "how to check mobile deposit limit chase",
+  "platform": "chase-mobile-ios",
+  "canvas": {
+    "mobile": "786x1704 (393x852 pt @2x, full-bleed iOS, square corners)",
+    "website": "2880x1800 (1440x900 pt @2x, chase.com header + footer)"
+  },
+  "font": "Open Sans (Regular/SemiBold/Bold)",
+  "status_bar": "12:01, 4-bar cellular, WiFi arcs, battery with tip",
+  "screens": [
+    {
+      "file": "s01.png",
+      "label": "Sign in screen",
+      "resolution": "786x1704",
+      "reference": "references/mobile-ios/home-dashboard/home-account-screen.png",
+      "note": "Sign-in screen reused from the lock-card pack; reconstructed from DESIGN_RULES.md (no repo reference for sign-in)."
+    },
+    {
+      "file": "s02.png",
+      "label": "Home dashboard, quick actions row",
+      "resolution": "786x1704",
+      "reference": "references/mobile-ios/home-dashboard/home-account-screen.png",
+      "note": ""
+    },
+    {
+      "file": "s03.png",
+      "label": "Chase QuickDeposit agreement (first time)",
+      "resolution": "786x1704",
+      "reference": "references/mobile-ios/deposit-checks/quick-actions-toolbar.png",
+      "note": ""
+    },
+    {
+      "file": "s04.png",
+      "label": "QuickDeposit screen with mobile deposit limit",
+      "resolution": "786x1704",
+      "reference": "references/mobile-ios/deposit-checks/start-deposit-agreement.png + quick-deposit-screen.png",
+      "note": "Limit line: Your current mobile deposit limit is $7,500.00"
+    }
+  ]
+}

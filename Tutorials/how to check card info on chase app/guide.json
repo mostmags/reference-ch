@@ -1,0 +1,51 @@
+{
+  "topic": "how to check card info on chase app",
+  "slug": "how to check card info on chase app",
+  "platform": "chase-mobile-ios",
+  "generated": "2026-10-12",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) - $2,436.19 available / present",
+    "debit_card": "DEBIT/ATM CARD (...2208), exp 08/29, Visa",
+    "credit_card": "Freedom Unlimited (...7710) - $418.77 current balance, $5,000.00 credit limit",
+    "external_bank": "360 Performance Savings (...8535)"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Open your chase app and sign in.",
+      "screen": "s01.png",
+      "status": "done"
+    },
+    {
+      "step": 2,
+      "instruction": "On the home screen, tap your Freedom Unlimited credit card.",
+      "screen": "s02.png",
+      "status": "done"
+    },
+    {
+      "step": 3,
+      "instruction": "On the account screen, tap the image of your card.",
+      "screen": "s03.png",
+      "status": "done"
+    },
+    {
+      "step": 4,
+      "instruction": "Verify with Face ID or your passcode if prompted.",
+      "screen": "s03.png",
+      "status": "done"
+    },
+    {
+      "step": 5,
+      "instruction": "Your full card number, expiration date, and security code appear on the card details screen.",
+      "screen": "s04.png",
+      "status": "done"
+    },
+    {
+      "step": 6,
+      "instruction": "Use them for online purchases, or to add the card to a digital wallet.",
+      "screen": "s04.png",
+      "status": "done"
+    }
+  ]
+}

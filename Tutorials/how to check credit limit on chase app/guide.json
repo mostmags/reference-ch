@@ -1,0 +1,45 @@
+{
+  "topic": "how to check credit limit on chase app",
+  "slug": "how to check credit limit on chase app",
+  "platform": "chase-mobile-ios",
+  "generated": "2026-10-12",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) - $2,436.19 available / present",
+    "debit_card": "DEBIT/ATM CARD (...2208), exp 08/29, Visa",
+    "credit_card": "Freedom Unlimited (...7710) - $418.77 current balance, $5,000.00 credit limit",
+    "external_bank": "360 Performance Savings (...8535)"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Open your chase app and sign in.",
+      "screen": "s01.png",
+      "status": "done"
+    },
+    {
+      "step": 2,
+      "instruction": "On the home screen, tap your Freedom Unlimited credit card.",
+      "screen": "s02.png",
+      "status": "done"
+    },
+    {
+      "step": 3,
+      "instruction": "Look at the card summary section on the account screen.",
+      "screen": "s03.png",
+      "status": "done"
+    },
+    {
+      "step": 4,
+      "instruction": "\"Credit limit\" shows your total limit, here $5,000.00, with \"Available credit\" right above it.",
+      "screen": "s03.png",
+      "status": "done"
+    },
+    {
+      "step": 5,
+      "instruction": "Your current balance, $418.77, shows next to your card at the top of the screen.",
+      "screen": "s03.png",
+      "status": "done"
+    }
+  ]
+}
