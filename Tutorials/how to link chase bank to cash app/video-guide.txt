@@ -1,0 +1,9 @@
+In this video I’m going to show you how to how to link chase bank to cash app
+
+Step 1. Open the Chase app and sign in.
+Step 2. Tap your TOTAL CHECKING account, then tap "Manage account".
+Step 3. Under "Card setup & maintenance", tap the card details option ("Show card number" on the card screen) and verify with the code Chase sends you.
+Step 4. Write down your debit card number, expiration date, and security code shown on the Card details screen.
+Step 5. For a bank link instead, tap "Show details" on your checking account and copy the routing number (044000037) and account number.
+Step 6. Open Cash App, go to the Money tab, tap "Link bank" (or Add bank), and enter the card details, or choose "No card? Use bank account" and enter the routing and account numbers.
+Step 7. Cash App verifies the link with small test deposits or instantly via card verification; once verified you can add cash from Chase or cash out to it.

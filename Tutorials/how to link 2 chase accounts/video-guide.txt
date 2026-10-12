@@ -1,0 +1,9 @@
+In this video I’m going to show you how to how to link 2 chase accounts
+
+Step 1. Open the Chase app and sign in.
+Step 2. Tap "More" on the bottom navigation bar.
+Step 3. Tap "Profile & settings".
+Step 4. Tap "Account settings", then tap "Manage linked accounts".
+Step 5. Under "Available relationships", find the second Chase profile you want to see here and tap "Link relationship".
+Step 6. Tap "Link relationship" on the confirmation pop-up.
+Step 7. The confirmation screen shows the accounts are linked, and both profiles now appear under one sign-in.

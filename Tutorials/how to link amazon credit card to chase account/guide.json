@@ -1,0 +1,45 @@
+{
+  "topic": "how to link amazon credit card to chase account",
+  "slug": "how to link amazon credit card to chase account",
+  "platform": "Chase Mobile app (iOS)",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "debit_card": "DEBIT/ATM CARD (...2208) exp 08/29 Visa",
+    "credit_card": "Freedom Unlimited (...7710) $418.77",
+    "business": "Avery Design LLC profiles"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Know this first: the Amazon Rewards Visa is issued by Chase, so once you're approved it appears in the Chase app automatically under \"Credit cards\". There is no separate linking step."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Open the Chase app and sign in."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "If the card doesn't show on your home screen, tap \"More\", then \"Profile & settings\"."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Tap \"Account settings\", then tap \"Show or hide accounts\"."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Find \"Amazon Rewards Visa\" and tap the toggle to show it."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Go back to the home screen: your Amazon Rewards Visa now appears with your other Chase cards, ready to pay and manage."
+    }
+  ],
+  "generated": "2026-10-12"
+}

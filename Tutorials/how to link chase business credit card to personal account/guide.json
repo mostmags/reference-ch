@@ -1,0 +1,50 @@
+{
+  "topic": "how to link chase business credit card to personal account",
+  "slug": "how to link chase business credit card to personal account",
+  "platform": "Chase Mobile app (iOS)",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "debit_card": "DEBIT/ATM CARD (...2208) exp 08/29 Visa",
+    "credit_card": "Freedom Unlimited (...7710) $418.77",
+    "business": "Avery Design LLC profiles"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open the Chase app and sign in."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Tap \"More\" on the bottom navigation bar."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Tap \"Profile & settings\"."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Tap \"Account settings\", then tap \"Manage linked accounts\"."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Under \"Available relationships\", find the business profile that holds your business credit card and tap \"Link relationship\"."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Tap \"Link relationship\" on the confirmation pop-up."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "The green confirmation screen shows your account has been successfully linked. The business card now appears in this app alongside your personal accounts."
+    }
+  ],
+  "generated": "2026-10-12"
+}

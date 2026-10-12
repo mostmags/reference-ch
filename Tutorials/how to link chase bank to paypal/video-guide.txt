@@ -1,0 +1,9 @@
+In this video I’m going to show you how to how to link chase bank to paypal
+
+Step 1. Open the Chase app and sign in.
+Step 2. Tap your TOTAL CHECKING account, then tap "Manage account".
+Step 3. Tap "Show card number" on your debit card screen and verify with the one-time code.
+Step 4. Write down the debit card number, expiration date, and security code.
+Step 5. For a bank-account link, tap "Show details" and copy the routing number and account number.
+Step 6. Open PayPal, go to Wallet, tap "Link a card or bank account", and enter the card details, or tap "Link a bank account" and enter the routing and account numbers.
+Step 7. PayPal confirms instantly for cards; for a bank link it makes two small deposits within 1-2 business days. Enter them in PayPal to finish the link.

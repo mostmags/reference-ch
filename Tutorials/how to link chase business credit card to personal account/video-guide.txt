@@ -1,0 +1,9 @@
+In this video I’m going to show you how to how to link chase business credit card to personal account
+
+Step 1. Open the Chase app and sign in.
+Step 2. Tap "More" on the bottom navigation bar.
+Step 3. Tap "Profile & settings".
+Step 4. Tap "Account settings", then tap "Manage linked accounts".
+Step 5. Under "Available relationships", find the business profile that holds your business credit card and tap "Link relationship".
+Step 6. Tap "Link relationship" on the confirmation pop-up.
+Step 7. The green confirmation screen shows your account has been successfully linked. The business card now appears in this app alongside your personal accounts.

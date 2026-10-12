@@ -1,0 +1,50 @@
+{
+  "topic": "how to link chase bank to cash app",
+  "slug": "how to link chase bank to cash app",
+  "platform": "Chase Mobile app (iOS) + Cash App",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "debit_card": "DEBIT/ATM CARD (...2208) exp 08/29 Visa",
+    "credit_card": "Freedom Unlimited (...7710) $418.77",
+    "business": "Avery Design LLC profiles"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open the Chase app and sign in."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Tap your TOTAL CHECKING account, then tap \"Manage account\"."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Under \"Card setup & maintenance\", tap the card details option (\"Show card number\" on the card screen) and verify with the code Chase sends you."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Write down your debit card number, expiration date, and security code shown on the Card details screen."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "For a bank link instead, tap \"Show details\" on your checking account and copy the routing number (044000037) and account number."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Open Cash App, go to the Money tab, tap \"Link bank\" (or Add bank), and enter the card details, or choose \"No card? Use bank account\" and enter the routing and account numbers."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "Cash App verifies the link with small test deposits or instantly via card verification; once verified you can add cash from Chase or cash out to it."
+    }
+  ],
+  "generated": "2026-10-12"
+}

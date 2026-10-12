@@ -1,0 +1,50 @@
+{
+  "topic": "how to link chase bank to paypal",
+  "slug": "how to link chase bank to paypal",
+  "platform": "Chase Mobile app (iOS) + PayPal",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "debit_card": "DEBIT/ATM CARD (...2208) exp 08/29 Visa",
+    "credit_card": "Freedom Unlimited (...7710) $418.77",
+    "business": "Avery Design LLC profiles"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open the Chase app and sign in."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Tap your TOTAL CHECKING account, then tap \"Manage account\"."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Tap \"Show card number\" on your debit card screen and verify with the one-time code."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Write down the debit card number, expiration date, and security code."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "For a bank-account link, tap \"Show details\" and copy the routing number and account number."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Open PayPal, go to Wallet, tap \"Link a card or bank account\", and enter the card details, or tap \"Link a bank account\" and enter the routing and account numbers."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "PayPal confirms instantly for cards; for a bank link it makes two small deposits within 1-2 business days. Enter them in PayPal to finish the link."
+    }
+  ],
+  "generated": "2026-10-12"
+}
