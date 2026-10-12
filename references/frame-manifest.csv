@@ -92,3 +92,7 @@ linked-accounts,profile-account-settings,55,Profile & Settings: Account settings
 linked-accounts,manage-linked-accounts,70,Manage linked accounts: Available relationships with Link relationship links
 linked-accounts,link-confirm-dialog,86,Confirm dialog: Are you sure you would link this relationship (Cancel / Link relationship)
 linked-accounts,link-success,90,Your account has been successfully linked confirmation
+website,chase-com-home-full,web,"Signed-out chase.com homepage full page, live capture 2026-10-12, 1265x3644"
+website,chase-com-hero,web,"chase.com hero crop: $400 checking offer, blue #015CB9, green CTA"
+website,chase-com-signin-card,web,"chase.com sign-in card crop: fields, remember username, sign in, passwordless"
+website,chase-logo,web,"Official Chase wordmark + octagon logo from Wikimedia SVG, transparent, 1268x236"

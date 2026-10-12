@@ -203,3 +203,12 @@ Website frames are in `website/` (2990x1960, chase.com desktop).
 | `link-success.png` | 5RZjYNDom5k @1:30 | "Your account has been successfully linked" confirmation (Return to manage linked accounts / Go paperless) |
 
 Source: https://www.youtube.com/watch?v=5RZjYNDom5k ("How To Add Chase Business Card To Chase App (Full Guide)"). Captured 2026-10-11. Frames are 160x360 crops from a 360p video — good for labels/layout, not pixel detail.
+
+## `website/` (chase.com desktop, 1440x900 viewport)
+
+| File | Source | Description |
+|---|---|---|
+| `chase-com-home-full.png` | Live chase.com capture 2026-10-12 (full page, 1265x3644) | Signed-out homepage full page: utility bar, nav, $400 checking hero, sign-in card, product carousel, full footer |
+| `chase-com-hero.png` | Crop of the above | Hero only: blue #015CB9 background, Enjoy / $400 / New Chase checking customers, green Open an account CTA |
+| `chase-com-signin-card.png` | Crop of the above | Sign-in card only: Username/Password fields, Remember username, Use token, Sign in button, Passwordless sign in, Forgot/Not enrolled links |
+| `chase-logo.png` | https://upload.wikimedia.org/wikipedia/commons/1/1a/Chase_logo_2007.svg (2026-10-12) | Official CHASE wordmark + octagon logo, transparent PNG, 1268x236 |
