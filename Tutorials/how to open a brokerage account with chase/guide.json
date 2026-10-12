@@ -1,0 +1,48 @@
+{
+  "topic": "how to open a brokerage account with chase",
+  "slug": "how to open a brokerage account with chase",
+  "platform": "chase.com (desktop)",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "credit_card": "Freedom Unlimited (...7710) $418.77"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open chase.com and hover over \"Investing by J.P. Morgan\"."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Open the J.P. Morgan Self-Directed Investing page and click \"Open an account\"."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Sign in with your Chase profile, or create one when prompted."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Fill in the application: personal details, employment, and a short investment profile (goals, experience, risk tolerance)."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Choose the account type (individual, joint, or retirement) and submit."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Fund the account: transfers from a Chase account are usually available in minutes, from an outside bank in 1 to 3 business days."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "You're done: commission-free online stock and ETF trades, with no account minimums."
+    }
+  ],
+  "generated": "2026-10-12"
+}

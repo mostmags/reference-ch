@@ -1,0 +1,53 @@
+{
+  "topic": "how to get a chase sapphire reserve card",
+  "slug": "how to get a chase sapphire reserve card",
+  "platform": "chase.com (desktop)",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "credit_card": "Freedom Unlimited (...7710) $418.77"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open chase.com in your browser."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Hover over \"Credit cards\" and open the Chase Sapphire Reserve product page."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Review the highlights, then click \"Apply now\"."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Fill in the application: your legal name, home address, date of birth, Social Security number, and annual income. You don't need an online banking profile to apply."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Review the terms (annual fee, APR) and submit the application."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Most decisions take about 60 seconds; some applications need more review and Chase emails you the result."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "If approved, the card arrives in 5 to 7 business days, and you can add it to Apple Pay or Google Pay right away from the approval page."
+    },
+    {
+      "step": 8,
+      "screen": "s08.png",
+      "narration": "Activate the card in the app or by phone when it arrives."
+    }
+  ],
+  "generated": "2026-10-12"
+}

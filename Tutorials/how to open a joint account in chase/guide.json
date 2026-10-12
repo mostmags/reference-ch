@@ -1,0 +1,48 @@
+{
+  "topic": "how to open a joint account in chase",
+  "slug": "how to open a joint account in chase",
+  "platform": "chase.com (desktop)",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "credit_card": "Freedom Unlimited (...7710) $418.77"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open chase.com and hover over \"Checking\"."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Open the Chase Total Checking page and click \"Open an account\"."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Choose \"Joint account\" when the application asks for the ownership type."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Enter the first owner's details, then the second owner's: name, date of birth, Social Security number, and address."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Pick the funding amount and source, and review the account terms together."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Submit: both owners get account access in the app, and each can order a debit card."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "Fund the account to finish setup, and set up direct deposit to skip the monthly service fee."
+    }
+  ],
+  "generated": "2026-10-12"
+}

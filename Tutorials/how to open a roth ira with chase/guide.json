@@ -1,0 +1,48 @@
+{
+  "topic": "how to open a roth ira with chase",
+  "slug": "how to open a roth ira with chase",
+  "platform": "chase.com (desktop)",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "credit_card": "Freedom Unlimited (...7710) $418.77"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open chase.com and go to \"Investing by J.P. Morgan\"."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Open the retirement section and choose Roth IRA, then click \"Open an account\"."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Sign in with your Chase profile and fill in the application: identity, employment, and the investment profile questions."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Confirm you have earned income this year (a Roth IRA requires it under IRS rules) and choose your contribution amount up to the annual limit."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Pick your investments: your own stocks and ETFs, or a target portfolio."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Fund the Roth IRA from a Chase or linked account."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "You're done: qualified withdrawals in retirement are tax-free. Set up automatic contributions in the app to keep it growing."
+    }
+  ],
+  "generated": "2026-10-12"
+}

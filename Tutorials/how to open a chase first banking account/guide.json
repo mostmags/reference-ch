@@ -1,0 +1,48 @@
+{
+  "topic": "how to open a chase first banking account",
+  "slug": "how to open a chase first banking account",
+  "platform": "chase.com + Chase Mobile app",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "credit_card": "Freedom Unlimited (...7710) $418.77"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Know the requirement first: Chase First Banking is for kids 6 to 17, and a parent or guardian must already have an eligible Chase checking account."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Sign in to chase.com with the parent's profile."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Open the Chase First Banking page under Checking and click \"Open an account\"."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Enter the child's details: their name, age, and your relationship to them."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Order the child's debit card. Some branches issue it the same day."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "In the Chase app, set spending and ATM limits, choose where the card works (stores, online, ATMs), and turn on alerts."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "The child can then sign in with their own limited app access, and you can move money between your account and theirs anytime."
+    }
+  ],
+  "generated": "2026-10-12"
+}

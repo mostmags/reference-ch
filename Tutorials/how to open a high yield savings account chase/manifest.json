@@ -1,0 +1,27 @@
+{
+  "topic": "how to open a high yield savings account chase",
+  "slug": "how to open a high yield savings account chase",
+  "canvas": {
+    "website": "2880x1800"
+  },
+  "screens": [
+    {
+      "screen": "s01.png",
+      "canvas": "2880x1800 (1440x900 pt @2x)"
+    },
+    {
+      "screen": "s02.png",
+      "canvas": "2880x1800 (1440x900 pt @2x)"
+    },
+    {
+      "screen": "s03.png",
+      "canvas": "2880x1800 (1440x900 pt @2x)"
+    },
+    {
+      "screen": "s04.png",
+      "canvas": "2880x1800 (1440x900 pt @2x)"
+    }
+  ],
+  "reference_source": "see research.md",
+  "generated": "2026-10-12"
+}

@@ -1,0 +1,48 @@
+{
+  "topic": "how to open a high yield savings account chase",
+  "slug": "how to open a high yield savings account chase",
+  "platform": "chase.com (desktop)",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "credit_card": "Freedom Unlimited (...7710) $418.77"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Know this first: Chase doesn't market a personal account under the name \"high yield savings\". Its savings options are Chase Savings and Premier Savings; rates run below online-only banks, so check the current rates page before you open one."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Open chase.com and hover over \"Savings & CDs\"."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Open the Chase Savings page and click \"Open an account\"."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Sign in or continue as a new customer, and fill in the application (identity, address, funding source)."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Skip the monthly service fee by opening with $0 when you set up an automatic savings plan, or meet a balance requirement."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Turn on Autosave in the app: round-ups on debit purchases and a recurring transfer."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "Fund the account from checking or an outside bank, and you're set."
+    }
+  ],
+  "generated": "2026-10-12"
+}
