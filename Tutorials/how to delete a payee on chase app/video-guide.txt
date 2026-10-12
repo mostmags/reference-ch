@@ -1,0 +1,9 @@
+In this video I’m going to show you how to how to delete a payee on chase app
+
+Step 1. Open the Chase app and sign in.
+Step 2. Tap "Pay & transfer" on the bottom navigation bar.
+Step 3. Tap "Pay bills".
+Step 4. Find the payee you want to remove in your payee list and tap it.
+Step 5. On the payee detail screen, tap "Delete payee".
+Step 6. Tap "Delete" on the confirmation pop-up to confirm.
+Step 7. The confirmation screen shows the payee has been removed from your bill pay list.

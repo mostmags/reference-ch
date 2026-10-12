@@ -1,0 +1,10 @@
+In this video I’m going to show you how to how to pay with zelle chase
+
+Step 1. Open the Chase app and sign in.
+Step 2. Tap "Pay & transfer" on the bottom navigation bar.
+Step 3. Tap "Send money with Zelle".
+Step 4. Tap the recipient you want to pay, or tap "Add recipient" to add a new one.
+Step 5. Enter the amount, an optional message, and choose the account to pay from under "Pay from".
+Step 6. Tap "Review & send".
+Step 7. Check the recipient, amount, and delivery date on the review screen, then tap "Send money".
+Step 8. The confirmation screen shows your money is being sent, and the recipient will get it in a few minutes.

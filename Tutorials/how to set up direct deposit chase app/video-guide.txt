@@ -1,0 +1,8 @@
+In this video I’m going to show you how to how to set up direct deposit chase app
+
+Step 1. Open the Chase app and sign in.
+Step 2. Tap your TOTAL CHECKING account on the home screen.
+Step 3. Tap "Show details" to display your account and routing numbers.
+Step 4. Tap "Transfer" (or More) and choose "Set up direct deposit" to open the Direct Deposit screen.
+Step 5. Give your employer the routing number and account number shown, or tap "Copy" next to each one.
+Step 6. If your employer needs a form, tap "Direct Deposit form (PDF)" to download the prefilled form and send it to your employer's payroll department.

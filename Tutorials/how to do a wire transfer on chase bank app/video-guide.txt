@@ -1,0 +1,10 @@
+In this video I’m going to show you how to how to do a wire transfer on chase bank app
+
+Step 1. Open the Chase app and sign in.
+Step 2. Tap "Pay & transfer" on the bottom navigation bar.
+Step 3. Tap "Wire money".
+Step 4. Tap "Get started" on the intro screen.
+Step 5. Enter the recipient's bank routing number under "Add recipient bank details" and tap "Continue" when the bank name is confirmed.
+Step 6. Enter the recipient's account number, name, and address under "Add recipient details", then tap "Continue".
+Step 7. Choose a payment purpose, review the wire amount, the $25.00 wire fee, and the total on the "Does everything look OK?" screen, then tap "Schedule wire".
+Step 8. The confirmation screen shows your wire has been scheduled.

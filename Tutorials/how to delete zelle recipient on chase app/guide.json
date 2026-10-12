@@ -1,0 +1,54 @@
+{
+  "topic": "how to delete zelle recipient on chase app",
+  "slug": "how to delete zelle recipient on chase app",
+  "platform": "Chase Mobile app (iOS)",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "credit_card": "Freedom Unlimited (...7710) $418.77",
+    "external_bank": "360 Performance Savings (...8535)"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open the Chase app and sign in."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Tap \"Pay & transfer\" on the bottom navigation bar."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Tap \"Send money with Zelle\"."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Tap the gear icon in the top right, then tap \"Manage recipients\"."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Find the recipient you want to remove and tap their name."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Tap \"Delete recipient\"."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "Tap \"Delete\" on the confirmation pop-up to confirm."
+    },
+    {
+      "step": 8,
+      "screen": "s08.png",
+      "narration": "The confirmation screen shows the recipient has been removed from your Zelle recipients."
+    }
+  ],
+  "generated": "2026-10-12"
+}

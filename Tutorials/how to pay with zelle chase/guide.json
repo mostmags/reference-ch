@@ -1,0 +1,54 @@
+{
+  "topic": "how to pay with zelle chase",
+  "slug": "how to pay with zelle chase",
+  "platform": "Chase Mobile app (iOS)",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "credit_card": "Freedom Unlimited (...7710) $418.77",
+    "external_bank": "360 Performance Savings (...8535)"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open the Chase app and sign in."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Tap \"Pay & transfer\" on the bottom navigation bar."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Tap \"Send money with Zelle\"."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Tap the recipient you want to pay, or tap \"Add recipient\" to add a new one."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Enter the amount, an optional message, and choose the account to pay from under \"Pay from\"."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Tap \"Review & send\"."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "Check the recipient, amount, and delivery date on the review screen, then tap \"Send money\"."
+    },
+    {
+      "step": 8,
+      "screen": "s08.png",
+      "narration": "The confirmation screen shows your money is being sent, and the recipient will get it in a few minutes."
+    }
+  ],
+  "generated": "2026-10-12"
+}

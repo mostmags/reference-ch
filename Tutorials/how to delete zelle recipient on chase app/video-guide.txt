@@ -1,0 +1,10 @@
+In this video I’m going to show you how to how to delete zelle recipient on chase app
+
+Step 1. Open the Chase app and sign in.
+Step 2. Tap "Pay & transfer" on the bottom navigation bar.
+Step 3. Tap "Send money with Zelle".
+Step 4. Tap the gear icon in the top right, then tap "Manage recipients".
+Step 5. Find the recipient you want to remove and tap their name.
+Step 6. Tap "Delete recipient".
+Step 7. Tap "Delete" on the confirmation pop-up to confirm.
+Step 8. The confirmation screen shows the recipient has been removed from your Zelle recipients.

@@ -1,0 +1,54 @@
+{
+  "topic": "how to pay amazon chase credit card",
+  "slug": "how to pay amazon chase credit card",
+  "platform": "Chase Mobile app (iOS)",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "credit_card": "Freedom Unlimited (...7710) $418.77",
+    "external_bank": "360 Performance Savings (...8535)"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open the Chase app and sign in."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Tap your Amazon Rewards Visa card on the home screen."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Tap the blue \"Pay card\" button."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Choose how much to pay: current balance, statement balance, or another amount."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Choose the account to pay from under \"Pay from\"."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Choose the payment date, then tap \"Continue\"."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "Review the details and tap \"Schedule payment\"."
+    },
+    {
+      "step": 8,
+      "screen": "s08.png",
+      "narration": "The confirmation screen shows your Amazon Rewards Visa payment has been scheduled."
+    }
+  ],
+  "generated": "2026-10-12"
+}

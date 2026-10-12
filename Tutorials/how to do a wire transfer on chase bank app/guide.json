@@ -1,0 +1,54 @@
+{
+  "topic": "how to do a wire transfer on chase bank app",
+  "slug": "how to do a wire transfer on chase bank app",
+  "platform": "Chase Mobile app (iOS)",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "credit_card": "Freedom Unlimited (...7710) $418.77",
+    "external_bank": "360 Performance Savings (...8535)"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open the Chase app and sign in."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Tap \"Pay & transfer\" on the bottom navigation bar."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Tap \"Wire money\"."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Tap \"Get started\" on the intro screen."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Enter the recipient's bank routing number under \"Add recipient bank details\" and tap \"Continue\" when the bank name is confirmed."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Enter the recipient's account number, name, and address under \"Add recipient details\", then tap \"Continue\"."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "Choose a payment purpose, review the wire amount, the $25.00 wire fee, and the total on the \"Does everything look OK?\" screen, then tap \"Schedule wire\"."
+    },
+    {
+      "step": 8,
+      "screen": "s08.png",
+      "narration": "The confirmation screen shows your wire has been scheduled."
+    }
+  ],
+  "generated": "2026-10-12"
+}

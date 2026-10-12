@@ -1,0 +1,44 @@
+{
+  "topic": "how to set up direct deposit chase app",
+  "slug": "how to set up direct deposit chase app",
+  "platform": "Chase Mobile app (iOS)",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "credit_card": "Freedom Unlimited (...7710) $418.77",
+    "external_bank": "360 Performance Savings (...8535)"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open the Chase app and sign in."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Tap your TOTAL CHECKING account on the home screen."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Tap \"Show details\" to display your account and routing numbers."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Tap \"Transfer\" (or More) and choose \"Set up direct deposit\" to open the Direct Deposit screen."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Give your employer the routing number and account number shown, or tap \"Copy\" next to each one."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "If your employer needs a form, tap \"Direct Deposit form (PDF)\" to download the prefilled form and send it to your employer's payroll department."
+    }
+  ],
+  "generated": "2026-10-12"
+}
