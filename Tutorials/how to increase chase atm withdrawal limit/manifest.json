@@ -1,0 +1,27 @@
+{
+  "topic": "how to increase chase atm withdrawal limit",
+  "slug": "how to increase chase atm withdrawal limit",
+  "canvas": {
+    "mobile": "786x1704"
+  },
+  "screens": [
+    {
+      "screen": "s01.png",
+      "canvas": "786x1704 (393x852 pt @2x)"
+    },
+    {
+      "screen": "s02.png",
+      "canvas": "786x1704 (393x852 pt @2x)"
+    },
+    {
+      "screen": "s03.png",
+      "canvas": "786x1704 (393x852 pt @2x)"
+    },
+    {
+      "screen": "s04.png",
+      "canvas": "786x1704 (393x852 pt @2x)"
+    }
+  ],
+  "reference_source": "see research.md",
+  "generated": "2026-10-12"
+}

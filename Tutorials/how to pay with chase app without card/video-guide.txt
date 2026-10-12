@@ -1,0 +1,9 @@
+In this video I’m going to show you how to how to pay with chase app without card
+
+Step 1. Open the Chase app and sign in.
+Step 2. Tap your card, then tap "Manage account".
+Step 3. Under "Card setup & maintenance", tap "Add card to digital wallets".
+Step 4. Tap "Apple Pay" (or Google Pay), then tap "Add to Apple Wallet" and complete verification.
+Step 5. The "Your card is ready to use" screen confirms your card is in your phone's wallet.
+Step 6. To pay in a store, wake your iPhone and hold it near the contactless reader until "Done" and the checkmark appear. No physical card needed.
+Step 7. For bills and friends, use "Pay & transfer" in the app: Pay bills, Zelle, and transfers all work without your physical card.

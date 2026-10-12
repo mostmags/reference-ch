@@ -1,0 +1,54 @@
+{
+  "topic": "how to connect chase card to apple pay",
+  "slug": "how to connect chase card to apple pay",
+  "platform": "Chase Mobile app (iOS) + Apple Wallet",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "debit_card": "DEBIT/ATM CARD (...2208) exp 08/29 Visa",
+    "credit_card": "Freedom Unlimited (...7710) $418.77"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open the Chase app and sign in."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Tap your Freedom Unlimited credit card on the home screen."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Tap \"Manage account\"."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Under \"Card setup & maintenance\", tap \"Add card to digital wallets\"."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Tap \"Apple Pay\"."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "On the \"Add to Wallet\" screen, check the card details and tap \"Add to Apple Wallet\"."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "Keep the screen open while Chase verifies your card. You may be asked for a one-time code."
+    },
+    {
+      "step": 8,
+      "screen": "s08.png",
+      "narration": "The \"Your card is ready to use\" confirmation shows the card was added to Apple Pay. Hold your iPhone near a contactless reader to pay."
+    }
+  ],
+  "generated": "2026-10-12"
+}

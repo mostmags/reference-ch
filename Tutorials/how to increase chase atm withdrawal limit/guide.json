@@ -1,0 +1,49 @@
+{
+  "topic": "how to increase chase atm withdrawal limit",
+  "slug": "how to increase chase atm withdrawal limit",
+  "platform": "Chase Mobile app (iOS) + phone/branch",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "debit_card": "DEBIT/ATM CARD (...2208) exp 08/29 Visa",
+    "credit_card": "Freedom Unlimited (...7710) $418.77"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open the Chase app and sign in."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Tap your TOTAL CHECKING account, then tap \"Manage account\"."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Look through the card settings: the app has no option to change your ATM withdrawal limit, so this is done by phone or at a branch."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Your current limit depends on your account: typically $500 to $1,000 per day at non-Chase ATMs and up to $3,000 per day at Chase branch ATMs."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Tap \"Contact us\" and call 1-800-935-9935 to ask for a temporary or permanent increase. Chase decides based on your account history, so it isn't guaranteed."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Or visit a branch: branch ATMs and teller withdrawals usually allow more cash than a regular ATM."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "If you're still short, use debit card cash back at stores or withdraw inside a branch from a teller."
+    }
+  ],
+  "generated": "2026-10-12"
+}

@@ -1,0 +1,10 @@
+In this video I’m going to show you how to how to lock chase card on app
+
+Step 1. Open your chase app and tap on your TOTAL CHECKING account.
+Step 2. If the account-tools message appears, tap “Got it” to dismiss it.
+Step 3. Tap “Manage account” to open your account tools.
+Step 4. Under the account tools grid, tap “Lock & unlock card”.
+Step 5. Tap the toggle next to “Lock card” to lock it.
+Step 6. Keep the screen open while the lock processes.
+Step 7. The “You have locked your card” confirmation shows the card is locked. New purchases will be declined.
+Step 8. To unlock it, come back to the same screen and tap the toggle again. Locking doesn't block fees, credits, digital wallet payments, or recurring transactions.

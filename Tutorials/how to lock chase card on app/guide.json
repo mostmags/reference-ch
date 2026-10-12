@@ -1,0 +1,54 @@
+{
+  "topic": "how to lock chase card on app",
+  "slug": "how to lock chase card on app",
+  "platform": "Chase Mobile app (iOS)",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "debit_card": "DEBIT/ATM CARD (...2208) exp 08/29 Visa",
+    "credit_card": "Freedom Unlimited (...7710) $418.77"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open your chase app and tap on your TOTAL CHECKING account."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "If the account-tools message appears, tap \u201cGot it\u201d to dismiss it."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Tap \u201cManage account\u201d to open your account tools."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Under the account tools grid, tap \u201cLock & unlock card\u201d."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Tap the toggle next to \u201cLock card\u201d to lock it."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Keep the screen open while the lock processes."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "The \u201cYou have locked your card\u201d confirmation shows the card is locked. New purchases will be declined."
+    },
+    {
+      "step": 8,
+      "screen": "s08.png",
+      "narration": "To unlock it, come back to the same screen and tap the toggle again. Locking doesn't block fees, credits, digital wallet payments, or recurring transactions."
+    }
+  ],
+  "generated": "2026-10-12"
+}

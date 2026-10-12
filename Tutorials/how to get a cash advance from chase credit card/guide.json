@@ -1,0 +1,54 @@
+{
+  "topic": "how to get a cash advance from chase credit card",
+  "slug": "how to get a cash advance from chase credit card",
+  "platform": "Chase Mobile app (iOS) + ATM",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "debit_card": "DEBIT/ATM CARD (...2208) exp 08/29 Visa",
+    "credit_card": "Freedom Unlimited (...7710) $418.77"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open the Chase app and sign in."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Tap your Freedom Unlimited credit card on the home screen."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Tap \"Manage account\"."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Under \"Card setup & maintenance\", tap \"Manage PIN\"."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "On the \"Get a new PIN\" screen, tap \"Request PIN\" if you don't have one. The PIN arrives by mail in 5 to 7 business days; to set your own PIN, visit a Chase branch."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Enter your 16-digit card number and tap \"Request PIN\"."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "Once your PIN arrives, visit any ATM that accepts Visa: insert your credit card, enter your PIN, choose \"Cash advance\" or \"Credit\", and enter the amount."
+    },
+    {
+      "step": 8,
+      "screen": "s08.png",
+      "narration": "Expect a cash advance fee of $10 or 5% of the amount (whichever is greater), plus interest from day one. There's no grace period on cash advances."
+    }
+  ],
+  "generated": "2026-10-12"
+}

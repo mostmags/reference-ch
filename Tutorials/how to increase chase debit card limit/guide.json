@@ -1,0 +1,49 @@
+{
+  "topic": "how to increase chase debit card limit",
+  "slug": "how to increase chase debit card limit",
+  "platform": "Chase Mobile app (iOS) + phone/branch",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "debit_card": "DEBIT/ATM CARD (...2208) exp 08/29 Visa",
+    "credit_card": "Freedom Unlimited (...7710) $418.77"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open the Chase app and sign in."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Tap your TOTAL CHECKING account, then tap \"Manage account\"."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Check the card settings: the app doesn't offer a toggle for debit card daily limits."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Debit cards carry two limits: a daily ATM withdrawal limit and a separate daily purchase limit; both are set by Chase based on your account."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Tap \"Contact us\" and call 1-800-935-9935 to ask for higher limits. They're reviewed case by case and aren't guaranteed."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "A branch visit is the other option, and teller withdrawals don't count against your ATM limit."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "For bigger purchases, split the payment or use a credit card; transactions above the limit are simply declined, with no fee."
+    }
+  ],
+  "generated": "2026-10-12"
+}

@@ -1,0 +1,54 @@
+{
+  "topic": "how to get cash from chase credit card",
+  "slug": "how to get cash from chase credit card",
+  "platform": "Chase Mobile app (iOS) + ATM/branch",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "debit_card": "DEBIT/ATM CARD (...2208) exp 08/29 Visa",
+    "credit_card": "Freedom Unlimited (...7710) $418.77"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open the Chase app and sign in."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Tap your Freedom Unlimited credit card on the home screen."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Tap \"Manage account\", then tap \"Manage PIN\" under \"Card setup & maintenance\"."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Request a PIN if you don't have one; it arrives by mail in 5 to 7 business days, or set your own PIN at a Chase branch."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Enter your 16-digit card number and tap \"Request PIN\"."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "With your PIN, go to any Visa ATM: insert your credit card, enter the PIN, choose \"Cash advance\", and enter the amount."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "At a Chase branch you don't need a PIN: a teller can process the cash advance with your card and photo ID."
+    },
+    {
+      "step": 8,
+      "screen": "s08.png",
+      "narration": "Fees apply: $10 or 5% of the amount (whichever is greater), interest starts immediately, and ATM owners may add their own fee."
+    }
+  ],
+  "generated": "2026-10-12"
+}

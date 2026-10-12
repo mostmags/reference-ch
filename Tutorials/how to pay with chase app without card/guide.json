@@ -1,0 +1,49 @@
+{
+  "topic": "how to pay with chase app without card",
+  "slug": "how to pay with chase app without card",
+  "platform": "Chase Mobile app (iOS) + digital wallet",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "debit_card": "DEBIT/ATM CARD (...2208) exp 08/29 Visa",
+    "credit_card": "Freedom Unlimited (...7710) $418.77"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open the Chase app and sign in."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Tap your card, then tap \"Manage account\"."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Under \"Card setup & maintenance\", tap \"Add card to digital wallets\"."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Tap \"Apple Pay\" (or Google Pay), then tap \"Add to Apple Wallet\" and complete verification."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "The \"Your card is ready to use\" screen confirms your card is in your phone's wallet."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "To pay in a store, wake your iPhone and hold it near the contactless reader until \"Done\" and the checkmark appear. No physical card needed."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "For bills and friends, use \"Pay & transfer\" in the app: Pay bills, Zelle, and transfers all work without your physical card."
+    }
+  ],
+  "generated": "2026-10-12"
+}

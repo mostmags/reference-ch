@@ -1,0 +1,54 @@
+{
+  "topic": "how to get chase card number before it arrives",
+  "slug": "how to get chase card number before it arrives",
+  "platform": "Chase Mobile app (iOS)",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) $2,436.19",
+    "debit_card": "DEBIT/ATM CARD (...2208) exp 08/29 Visa",
+    "credit_card": "Freedom Unlimited (...7710) $418.77"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "screen": "s01.png",
+      "narration": "Open the Chase app and sign in after your card is approved."
+    },
+    {
+      "step": 2,
+      "screen": "s02.png",
+      "narration": "Your new card appears on the home screen even before the physical card arrives."
+    },
+    {
+      "step": 3,
+      "screen": "s03.png",
+      "narration": "Tap the card, then tap \"Manage account\"."
+    },
+    {
+      "step": 4,
+      "screen": "s04.png",
+      "narration": "Under \"Card setup & maintenance\", tap \"Add card to digital wallets\"."
+    },
+    {
+      "step": 5,
+      "screen": "s05.png",
+      "narration": "Tap \"Apple Pay\", then tap \"Add to Apple Wallet\" on the next screen."
+    },
+    {
+      "step": 6,
+      "screen": "s06.png",
+      "narration": "Complete the verification step."
+    },
+    {
+      "step": 7,
+      "screen": "s07.png",
+      "narration": "The \"Your card is ready to use\" screen confirms the card is in Apple Pay. You can now pay with your phone while the physical card is in the mail."
+    },
+    {
+      "step": 8,
+      "screen": "s08.png",
+      "narration": "The full 16-digit card number isn't shown in the app until the physical card arrives; digital wallet access is the immediate option."
+    }
+  ],
+  "generated": "2026-10-12"
+}

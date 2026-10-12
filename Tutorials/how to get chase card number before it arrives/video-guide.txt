@@ -1,0 +1,10 @@
+In this video I’m going to show you how to how to get chase card number before it arrives
+
+Step 1. Open the Chase app and sign in after your card is approved.
+Step 2. Your new card appears on the home screen even before the physical card arrives.
+Step 3. Tap the card, then tap "Manage account".
+Step 4. Under "Card setup & maintenance", tap "Add card to digital wallets".
+Step 5. Tap "Apple Pay", then tap "Add to Apple Wallet" on the next screen.
+Step 6. Complete the verification step.
+Step 7. The "Your card is ready to use" screen confirms the card is in Apple Pay. You can now pay with your phone while the physical card is in the mail.
+Step 8. The full 16-digit card number isn't shown in the app until the physical card arrives; digital wallet access is the immediate option.

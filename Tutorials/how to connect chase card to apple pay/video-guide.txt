@@ -1,0 +1,10 @@
+In this video I’m going to show you how to how to connect chase card to apple pay
+
+Step 1. Open the Chase app and sign in.
+Step 2. Tap your Freedom Unlimited credit card on the home screen.
+Step 3. Tap "Manage account".
+Step 4. Under "Card setup & maintenance", tap "Add card to digital wallets".
+Step 5. Tap "Apple Pay".
+Step 6. On the "Add to Wallet" screen, check the card details and tap "Add to Apple Wallet".
+Step 7. Keep the screen open while Chase verifies your card. You may be asked for a one-time code.
+Step 8. The "Your card is ready to use" confirmation shows the card was added to Apple Pay. Hold your iPhone near a contactless reader to pay.
