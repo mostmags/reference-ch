@@ -1,0 +1,10 @@
+In this video I'm going to show you how to lock a debit card in the chase app
+
+Step 1. Open your chase app and sign in.
+Step 2. On the home screen, tap your TOTAL CHECKING account, the checking account your debit card is tied to.
+Step 3. Scroll down and tap "Manage account" to open your account tools.
+Step 4. At the top of the Manage account screen, tap "Lock & unlock card".
+Step 5. Read the "Misplaced your card?" info. Locking blocks new purchases and ATM withdrawals, but it won't block fees, credits, digital wallet purchases or repeating transactions.
+Step 6. Next to your DEBIT/ATM CARD, tap the blue "Lock card" button.
+Step 7. The green "You've locked your card." message confirms your card is locked, and the button now reads "Unlock card".
+Step 8. When you find your card, come back to this screen and tap "Unlock card" to use it again.

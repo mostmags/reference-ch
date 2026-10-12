@@ -1,0 +1,23 @@
+{
+  "topic": "how to lock a debit card in the chase app",
+  "slug": "lock-a-debit-card-chase-app",
+  "platform": "chase-mobile-ios",
+  "generated": "2026-10-12",
+  "persona": {
+    "name": "Jordan Avery",
+    "checking": "TOTAL CHECKING (...4821) - $2,436.19 available / present",
+    "debit_card": "DEBIT/ATM CARD (...2208), exp 08/29, Visa",
+    "credit_card": "Freedom Unlimited (...7710) - $418.77 current balance",
+    "external_bank": "360 Performance Savings (...8535)"
+  },
+  "steps": [
+    {"step": 1, "instruction": "Open your chase app and sign in.", "screen": "s01.png", "label": "Sign in screen", "status": "done"},
+    {"step": 2, "instruction": "On the home screen, tap your TOTAL CHECKING account, the checking account your debit card is tied to.", "screen": "s02.png", "label": "Home dashboard, accounts list", "status": "done"},
+    {"step": 3, "instruction": "Scroll down and tap \"Manage account\" to open your account tools.", "screen": "s03.png", "label": "TOTAL CHECKING account screen", "status": "done"},
+    {"step": 4, "instruction": "At the top of the Manage account screen, tap \"Lock & unlock card\".", "screen": "s04.png", "label": "Manage account screen", "status": "done"},
+    {"step": 5, "instruction": "Read the \"Misplaced your card?\" info. Locking blocks new purchases and ATM withdrawals, but it won't block fees, credits, digital wallet purchases or repeating transactions.", "screen": "s05.png", "label": "Lock & unlock your card screen", "status": "done"},
+    {"step": 6, "instruction": "Next to your DEBIT/ATM CARD, tap the blue \"Lock card\" button.", "screen": "s05.png", "label": "Lock & unlock your card screen", "status": "done"},
+    {"step": 7, "instruction": "The green \"You've locked your card.\" message confirms your card is locked, and the button now reads \"Unlock card\".", "screen": "s06.png", "label": "Card locked confirmation", "status": "done"},
+    {"step": 8, "instruction": "When you find your card, come back to this screen and tap \"Unlock card\" to use it again.", "screen": "s06.png", "label": "Card locked confirmation", "status": "done"}
+  ]
+}
