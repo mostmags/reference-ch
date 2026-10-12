@@ -1,0 +1,15 @@
+{
+  "topic": "how to lock a debit card in the chase app",
+  "slug": "lock-a-debit-card-chase-app",
+  "canvas": {"width": 786, "height": 1704, "spec": "393x852 pt @2x, full-bleed iOS screenshot, square corners, no device frame"},
+  "status_bar": "12:01, 4-bar cellular, WiFi arcs, battery with tip",
+  "font": "Open Sans (Regular/SemiBold/Bold)",
+  "screens": [
+    {"file": "s01.png", "label": "Sign in screen", "resolution": "786x1704", "reference": null, "note": "Reconstructed from muse-agent-kit/DESIGN_RULES.md; no repo reference exists for the sign-in screen (website/ frames listed in REFERENCE_INDEX.md are not present in the repo)."},
+    {"file": "s02.png", "label": "Home dashboard, accounts list", "resolution": "786x1704", "reference": "references/mobile-ios/home-dashboard/home-account-screen.png"},
+    {"file": "s03.png", "label": "TOTAL CHECKING account screen", "resolution": "786x1704", "reference": "references/mobile-ios/checking/account-screen.png"},
+    {"file": "s04.png", "label": "Manage account screen", "resolution": "786x1704", "reference": "references/mobile-ios/checking/manage-account.png"},
+    {"file": "s05.png", "label": "Lock & unlock your card screen (Lock card button)", "resolution": "786x1704", "reference": "references/mobile-ios/card-management/misplace-your-card.png"},
+    {"file": "s06.png", "label": "Card locked confirmation (Unlock card + green message)", "resolution": "786x1704", "reference": "references/mobile-ios/card-management/card-locked.png"}
+  ]
+}
